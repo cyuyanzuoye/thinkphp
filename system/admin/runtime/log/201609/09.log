@@ -1,0 +1,497 @@
+[ 2016-09-09T11:21:33+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.027001s][吞吐率：37.04req/s] [内存消耗：884.67kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+  'level' => 
+  array (
+  ),
+)
+
+[ 2016-09-09T11:22:15+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：768.65kb] [文件加载：23]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+  'level' => 
+  array (
+  ),
+)
+
+[ 2016-09-09T11:31:31+08:00 ] 127.0.0.1 127.0.0.1 GET /hello.html
+[ log ] think.com:9096/hello.html [运行时间：0.076004s][吞吐率：13.16req/s] [内存消耗：673.49kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hello',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:31:56+08:00 ] 127.0.0.1 127.0.0.1 GET /index/index/index.html
+[ log ] think.com:9096/index/index/index.html [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：778.88kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:32:04+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.014000s][吞吐率：71.43req/s] [内存消耗：775.63kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:36:48+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：775.63kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:36:53+08:00 ] 127.0.0.1 127.0.0.1 GET /hellow
+[ log ] think.com:9096/hellow [运行时间：0.018002s][吞吐率：55.55req/s] [内存消耗：673.44kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hellow',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:37:11+08:00 ] 127.0.0.1 127.0.0.1 GET /hellow
+[ log ] think.com:9096/hellow [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：673.52kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hellow',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:37:15+08:00 ] 127.0.0.1 127.0.0.1 GET /hellow/1
+[ log ] think.com:9096/hellow/1 [运行时间：0.025002s][吞吐率：40.00req/s] [内存消耗：673.61kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hellow',
+    1 => '1',
+    2 => NULL,
+  ),
+)
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:39:56+08:00 ] 127.0.0.1 127.0.0.1 GET /hellow/1
+[ log ] think.com:9096/hellow/1 [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：673.63kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'hellow',
+    1 => '1',
+    2 => NULL,
+  ),
+)
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:39:59+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：775.63kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:40:05+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php
+[ log ] think.com:9096/index.php [运行时间：0.014001s][吞吐率：71.42req/s] [内存消耗：775.56kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:40:11+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/1/1
+[ log ] think.com:9096/index.php/1/1 [运行时间：0.073004s][吞吐率：13.70req/s] [内存消耗：670.18kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '1',
+    1 => '1',
+    2 => NULL,
+  ),
+)
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:41:13+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/1/1
+[ log ] think.com:9096/index.php/1/1 [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：670.02kb] [文件加载：25]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '1',
+    1 => '1',
+    2 => NULL,
+  ),
+)
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:41:17+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.023001s][吞吐率：43.48req/s] [内存消耗：854.42kb] [文件加载：34]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+[ error ] [1]Class 'Config' not found[G:\phpStudy\WWW\thinkphp\public\index.php:26]
+
+[ 2016-09-09T11:41:30+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：775.27kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:41:31+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：775.27kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:41:44+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.071004s][吞吐率：14.08req/s] [内存消耗：775.23kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:42:29+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.022002s][吞吐率：45.45req/s] [内存消耗：668.31kb] [文件加载：25]
+[ info ] [ LANG ] G:\phpStudy\WWW\thinkphp\thinkcore\lang\zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:45:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：777.41kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:50:46+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：775.20kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:50:47+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：775.20kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:50:47+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：775.20kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+
+[ 2016-09-09T11:50:47+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] think.com:9096/ [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：775.20kb] [文件加载：27]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] Method [ <user> public method index ] {
+  @@ G:\phpStudy\WWW\thinkphp\system\admin\src\index\controller\Index.php 9 - 15
+}
+
+[ info ] [ VIEW ] G:\phpStudy\WWW\thinkphp\public/../system/admin/src/index\view\index\index.html [ array (
+  0 => '_cjv',
+  1 => '_site_url',
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => 'G:\\phpStudy\\WWW\\thinkphp\\public/../system/admin/runtime/log\\',
+)
+

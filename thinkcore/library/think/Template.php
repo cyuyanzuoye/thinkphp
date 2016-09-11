@@ -179,8 +179,11 @@ class Template
             }
         }
         $template = $this->parseTemplateFile($template);
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> acfbe1e78bf05013f96effba9f27c8801cac408a
         if ($template) {
             $cacheFile = $this->config['cache_path'] . $this->config['cache_prefix'] . md5($template) . '.' . ltrim($this->config['cache_suffix'], '.');
             if (!$this->checkCache($cacheFile)) {
@@ -188,7 +191,10 @@ class Template
                 $content = file_get_contents($template);
                 $this->compiler($content, $cacheFile);
             }
+<<<<<<< HEAD
 
+=======
+>>>>>>> acfbe1e78bf05013f96effba9f27c8801cac408a
             // 页面缓存
             ob_start();
             ob_implicit_flush(0);
@@ -202,7 +208,6 @@ class Template
             }
             echo $content;
         }
-        die;
     }
 
     /**
@@ -322,17 +327,18 @@ class Template
     private function compiler(&$content, $cacheFile)
     {
         // 判断是否启用布局
-
         if ($this->config['layout_on']) {
             if (false !== strpos($content, '{__NOLAYOUT__}')) {
                 // 可以单独定义不使用布局
                 $content = str_replace('{__NOLAYOUT__}', '', $content);
-                echo 1;die;
             } else {
                 // 读取布局模板
                 $layoutFile = $this->parseTemplateFile($this->config['layout_name']);
 
 
+            } else {
+                // 读取布局模板
+                $layoutFile = $this->parseTemplateFile($this->config['layout_name']);
                 if ($layoutFile) {
                     // 替换布局的主体内容
                     $content = str_replace($this->config['layout_item'], $content, file_get_contents($layoutFile));

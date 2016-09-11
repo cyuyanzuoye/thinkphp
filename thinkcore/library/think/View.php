@@ -109,6 +109,7 @@ class View
         // 页面缓存
         ob_start();
         ob_implicit_flush(0);
+
         // 渲染输出
         $method = $renderContent ? 'display' : 'fetch';
         $this->engine->$method($template, $vars, $config);
@@ -117,7 +118,6 @@ class View
         $content = ob_get_clean();
         // 内容过滤标签
         Hook::listen('view_filter', $content);
-
         // 允许用户自定义模板的字符串替换
         $replace = array_merge($this->replace, $replace);
         if (!empty($replace)) {
